@@ -104,6 +104,10 @@ class Game {
    * @return {string} grade
    */
   showGrade(score) {
+    if (score > 50) return "...............";else
+    if (score > 45) return "Lên 50 điểm xem...";else
+    if (score > 40) return "Đố lên được 45 điểm đấy";else
+    if (score > 35) return "Tiếp xem nào...";else
     if (score > 30) return "Ơ tới được đây lun...";else
     if (score > 25) return "Chắc không tới đây được đâu";else
     if (score > 20) return "Tới đây cũng ghê đấy";else
