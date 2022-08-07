@@ -104,12 +104,12 @@ class Game {
    * @return {string} grade
    */
   showGrade(score) {
-    if (score > 30) return "Sao mà tới đây được:v";else
-    if (score > 25) return "Chắc không tới đây được đây";else
-    if (score > 20) return "Good job";else
-    if (score > 15) return "Kuynh";else
+    if (score > 30) return "Ơ tới được đây lun...";else
+    if (score > 25) return "Chắc không tới đây được đâu";else
+    if (score > 20) return "Tới đây cũng ghê đấy";else
+    if (score > 15) return "Ghê nhờ..Tới tiếp đi";else
     if (score > 13) return "Ghê-..-";else
-    if (score > 10) return "Cũng Được Đấy:)";else
+    if (score > 10) return "Cũng ghê đấy:)";else
     if (score > 5) return "Hơi non:v";else
     return "Gà...";
   }
