@@ -547,54 +547,54 @@ a:focus, a:active {
   left: 0;
   top: 77px;
   height: 151px;
-  background: url(https://greghub.github.io/coloron/public/svg/clouds.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/clouds.svg) repeat-x; */
   background-position-x: 170px;
 }
 
 .top_wave {
-  background: url(https://greghub.github.io/coloron/public/svg/top_wave.png) repeat-x 0 -1px;
+/*   background: url(https://greghub.github.io/coloron/public/svg/top_wave.png) repeat-x 0 -1px; */
   height: 35px;
   bottom: 0;
   z-index: 10001;
 }
 
 .wave1 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave1.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave1.svg) repeat-x; */
   height: 150px;
   bottom: 0;
   z-index: 23;
 }
 
 .wave2 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave2.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave2.svg) repeat-x; */
   height: 180px;
   bottom: 30px;
   z-index: 22;
 }
 
 .wave3 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave3.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave3.svg) repeat-x; */
   height: 180px;
   bottom: 90px;
   z-index: 21;
 }
 
 .wave4 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave4.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave4.svg) repeat-x; */
   height: 180px;
   bottom: 120px;
   z-index: 20;
 }
 
 .mount1 {
-  background: url(https://greghub.github.io/coloron/public/svg/mount1.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/mount1.svg) repeat-x; */
   height: 150px;
   bottom: 280px;
   z-index: 11;
 }
 
 .mount2 {
-  background: url(https://greghub.github.io/coloron/public/svg/mount2.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/mount2.svg) repeat-x; */
   height: 150px;
   bottom: 290px;
   z-index: 10;
@@ -607,7 +607,7 @@ a:focus, a:active {
   left: 0;
   top: 0;
   z-index: 1010;
-  background: url(https://greghub.github.io/coloron/public/svg/noise.png);
+/*   background: url(https://greghub.github.io/coloron/public/svg/noise.png); */
 }
 
 .glow {
@@ -658,7 +658,7 @@ a:focus, a:active {
   height: 362px;
   width: 90px;
   border-radius: 14px;
-  background-image: url(https://greghub.github.io/coloron/public/svg/noise.png);
+/*   background-image: url(https://greghub.github.io/coloron/public/svg/noise.png); */
   position: relative;
   overflow: hidden;
   float: left;
@@ -1025,7 +1025,7 @@ a:focus, a:active {
     width: 100%;
     height: 100%;
     background-color: #28DAD4;
-    background-image: url(https://greghub.github.io/coloron/public/images/coloron-image.png);
+/*     background-image: url(https://greghub.github.io/coloron/public/images/coloron-image.png); */
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -1549,54 +1549,54 @@ a:focus, a:active {
   left: 0;
   top: 77px;
   height: 151px;
-  background: url(https://greghub.github.io/coloron/public/svg/clouds.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/clouds.svg) repeat-x; */
   background-position-x: 170px;
 }
 
 .top_wave {
-  background: url(https://greghub.github.io/coloron/public/svg/top_wave.png) repeat-x 0 -1px;
+/*   background: url(https://greghub.github.io/coloron/public/svg/top_wave.png) repeat-x 0 -1px; */
   height: 35px;
   bottom: 0;
   z-index: 10001;
 }
 
 .wave1 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave1.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave1.svg) repeat-x; */
   height: 150px;
   bottom: 0;
   z-index: 23;
 }
 
 .wave2 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave2.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave2.svg) repeat-x; */
   height: 180px;
   bottom: 30px;
   z-index: 22;
 }
 
 .wave3 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave3.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave3.svg) repeat-x; */
   height: 180px;
   bottom: 90px;
   z-index: 21;
 }
 
 .wave4 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave4.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave4.svg) repeat-x; */
   height: 180px;
   bottom: 120px;
   z-index: 20;
 }
 
 .mount1 {
-  background: url(https://greghub.github.io/coloron/public/svg/mount1.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/mount1.svg) repeat-x; */
   height: 150px;
   bottom: 280px;
   z-index: 11;
 }
 
 .mount2 {
-  background: url(https://greghub.github.io/coloron/public/svg/mount2.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/mount2.svg) repeat-x; */
   height: 150px;
   bottom: 290px;
   z-index: 10;
@@ -1609,7 +1609,7 @@ a:focus, a:active {
   left: 0;
   top: 0;
   z-index: 1010;
-  background: url(https://greghub.github.io/coloron/public/svg/noise.png);
+/*   background: url(https://greghub.github.io/coloron/public/svg/noise.png); */
 }
 
 .glow {
@@ -1660,7 +1660,7 @@ a:focus, a:active {
   height: 362px;
   width: 90px;
   border-radius: 14px;
-  background-image: url(https://greghub.github.io/coloron/public/svg/noise.png);
+/*   background-image: url(https://greghub.github.io/coloron/public/svg/noise.png); */
   position: relative;
   overflow: hidden;
   float: left;
@@ -1989,7 +1989,7 @@ a:focus, a:active {
     width: 100%;
     height: 100%;
     background-color: #28DAD4;
-    background-image: url(https://greghub.github.io/coloron/public/images/coloron-image.png);
+/*     background-image: url(https://greghub.github.io/coloron/public/images/coloron-image.png); */
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -2551,54 +2551,54 @@ a:focus, a:active {
   left: 0;
   top: 77px;
   height: 151px;
-  background: url(https://greghub.github.io/coloron/public/svg/clouds.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/clouds.svg) repeat-x; */
   background-position-x: 170px;
 }
 
 .top_wave {
-  background: url(https://greghub.github.io/coloron/public/svg/top_wave.png) repeat-x 0 -1px;
+/*   background: url(https://greghub.github.io/coloron/public/svg/top_wave.png) repeat-x 0 -1px; */
   height: 35px;
   bottom: 0;
   z-index: 10001;
 }
 
 .wave1 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave1.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave1.svg) repeat-x; */
   height: 150px;
   bottom: 0;
   z-index: 23;
 }
 
 .wave2 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave2.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave2.svg) repeat-x; */
   height: 180px;
   bottom: 30px;
   z-index: 22;
 }
 
 .wave3 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave3.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave3.svg) repeat-x; */
   height: 180px;
   bottom: 90px;
   z-index: 21;
 }
 
 .wave4 {
-  background: url(https://greghub.github.io/coloron/public/svg/wave4.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/wave4.svg) repeat-x; */
   height: 180px;
   bottom: 120px;
   z-index: 20;
 }
 
 .mount1 {
-  background: url(https://greghub.github.io/coloron/public/svg/mount1.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/mount1.svg) repeat-x; */
   height: 150px;
   bottom: 280px;
   z-index: 11;
 }
 
 .mount2 {
-  background: url(https://greghub.github.io/coloron/public/svg/mount2.svg) repeat-x;
+/*   background: url(https://greghub.github.io/coloron/public/svg/mount2.svg) repeat-x; */
   height: 150px;
   bottom: 290px;
   z-index: 10;
@@ -2611,7 +2611,7 @@ a:focus, a:active {
   left: 0;
   top: 0;
   z-index: 1010;
-  background: url(https://greghub.github.io/coloron/public/svg/noise.png);
+/*   background: url(https://greghub.github.io/coloron/public/svg/noise.png); */
 }
 
 .glow {
@@ -2662,7 +2662,7 @@ a:focus, a:active {
   height: 362px;
   width: 90px;
   border-radius: 14px;
-  background-image: url(https://greghub.github.io/coloron/public/svg/noise.png);
+/*   background-image: url(https://greghub.github.io/coloron/public/svg/noise.png); */
   position: relative;
   overflow: hidden;
   float: left;
@@ -3029,7 +3029,7 @@ a:focus, a:active {
     width: 100%;
     height: 100%;
     background-color: #28DAD4;
-    background-image: url(https://greghub.github.io/coloron/public/images/coloron-image.png);
+/*     background-image: url(https://greghub.github.io/coloron/public/images/coloron-image.png); */
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-position: center;
@@ -3040,4 +3040,4 @@ a:focus, a:active {
   right: 0;
   top: 0;
   z-index: 9999;
-}/*# sourceMappingURL=style.css.map */
+}
